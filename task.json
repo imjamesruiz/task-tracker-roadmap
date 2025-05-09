@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "description": "['1 hour of code']",
+    "status": "in progress"
+  },
+  {
+    "id": 2,
+    "description": "['drink gallon of water']",
+    "status": "Done"
+  },
+  {
+    "id": 3,
+    "description": "hit the gym",
+    "status": "Done"
+  }
+]
