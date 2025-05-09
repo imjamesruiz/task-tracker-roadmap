@@ -1,9 +1,9 @@
 Task Tracker Project:
 - Uses simple command line interface (CLI) to track various tasks
-- 
+  
 - Application runs from command line, accepts user actions and inputs as arguments and stores
 - the tasks in a JSON File
-- 
+  
 - Program handles:
 -   - Adding, updating, and deleting tasks
     - Marks task as todo, in progress, or done
